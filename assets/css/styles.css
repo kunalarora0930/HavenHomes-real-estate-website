@@ -233,6 +233,7 @@ body.dark-theme{
   column-gap: .25rem;
   font-weight: var(--font-medium);
   transition: .3s;
+  font-size: 1.2rem;
 }
 
 .nav__logo:hover{
